@@ -1,0 +1,5 @@
+port: <port>
+
+db:
+  host: <hostname>
+  ssl_mode: <ssl_mode_option>
